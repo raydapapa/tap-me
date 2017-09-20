@@ -13,6 +13,23 @@
 		20780B811F72152400EED5EF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20780B7F1F72152400EED5EF /* Main.storyboard */; };
 		20780B831F72152400EED5EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20780B821F72152400EED5EF /* Assets.xcassets */; };
 		20780B861F72152400EED5EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20780B841F72152400EED5EF /* LaunchScreen.storyboard */; };
+		20780B9E1F7277A400EED5EF /* bg_tile.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B8D1F7277A400EED5EF /* bg_tile.png */; };
+		20780B9F1F7277A400EED5EF /* bg_tile@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B8E1F7277A400EED5EF /* bg_tile@2x.png */; };
+		20780BA01F7277A400EED5EF /* button_tap_deselected.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B8F1F7277A400EED5EF /* button_tap_deselected.png */; };
+		20780BA11F7277A400EED5EF /* button_tap_deselected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B901F7277A400EED5EF /* button_tap_deselected@2x.png */; };
+		20780BA21F7277A400EED5EF /* button_tap_selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B911F7277A400EED5EF /* button_tap_selected.png */; };
+		20780BA31F7277A400EED5EF /* button_tap_selected@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B921F7277A400EED5EF /* button_tap_selected@2x.png */; };
+		20780BA41F7277A400EED5EF /* ButtonTap.wav in Resources */ = {isa = PBXBuildFile; fileRef = 20780B931F7277A400EED5EF /* ButtonTap.wav */; };
+		20780BA51F7277A400EED5EF /* checker_bottom.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B941F7277A400EED5EF /* checker_bottom.png */; };
+		20780BA61F7277A400EED5EF /* checker_bottom@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B951F7277A400EED5EF /* checker_bottom@2x.png */; };
+		20780BA71F7277A400EED5EF /* checker_top.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B961F7277A400EED5EF /* checker_top.png */; };
+		20780BA81F7277A400EED5EF /* checker_top@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B971F7277A400EED5EF /* checker_top@2x.png */; };
+		20780BA91F7277A400EED5EF /* field_score.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B981F7277A400EED5EF /* field_score.png */; };
+		20780BAA1F7277A400EED5EF /* field_score@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B991F7277A400EED5EF /* field_score@2x.png */; };
+		20780BAB1F7277A400EED5EF /* field_time.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B9A1F7277A400EED5EF /* field_time.png */; };
+		20780BAC1F7277A400EED5EF /* field_time@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 20780B9B1F7277A400EED5EF /* field_time@2x.png */; };
+		20780BAD1F7277A400EED5EF /* HallOfTheMountainKing.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 20780B9C1F7277A400EED5EF /* HallOfTheMountainKing.mp3 */; };
+		20780BAE1F7277A400EED5EF /* SecondBeep.wav in Resources */ = {isa = PBXBuildFile; fileRef = 20780B9D1F7277A400EED5EF /* SecondBeep.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +43,23 @@
 		20780B821F72152400EED5EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		20780B851F72152400EED5EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		20780B871F72152400EED5EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		20780B8D1F7277A400EED5EF /* bg_tile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_tile.png; sourceTree = "<group>"; };
+		20780B8E1F7277A400EED5EF /* bg_tile@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bg_tile@2x.png"; sourceTree = "<group>"; };
+		20780B8F1F7277A400EED5EF /* button_tap_deselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_tap_deselected.png; sourceTree = "<group>"; };
+		20780B901F7277A400EED5EF /* button_tap_deselected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_tap_deselected@2x.png"; sourceTree = "<group>"; };
+		20780B911F7277A400EED5EF /* button_tap_selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_tap_selected.png; sourceTree = "<group>"; };
+		20780B921F7277A400EED5EF /* button_tap_selected@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_tap_selected@2x.png"; sourceTree = "<group>"; };
+		20780B931F7277A400EED5EF /* ButtonTap.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ButtonTap.wav; sourceTree = "<group>"; };
+		20780B941F7277A400EED5EF /* checker_bottom.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checker_bottom.png; sourceTree = "<group>"; };
+		20780B951F7277A400EED5EF /* checker_bottom@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checker_bottom@2x.png"; sourceTree = "<group>"; };
+		20780B961F7277A400EED5EF /* checker_top.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = checker_top.png; sourceTree = "<group>"; };
+		20780B971F7277A400EED5EF /* checker_top@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checker_top@2x.png"; sourceTree = "<group>"; };
+		20780B981F7277A400EED5EF /* field_score.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = field_score.png; sourceTree = "<group>"; };
+		20780B991F7277A400EED5EF /* field_score@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "field_score@2x.png"; sourceTree = "<group>"; };
+		20780B9A1F7277A400EED5EF /* field_time.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = field_time.png; sourceTree = "<group>"; };
+		20780B9B1F7277A400EED5EF /* field_time@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "field_time@2x.png"; sourceTree = "<group>"; };
+		20780B9C1F7277A400EED5EF /* HallOfTheMountainKing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = HallOfTheMountainKing.mp3; sourceTree = "<group>"; };
+		20780B9D1F7277A400EED5EF /* SecondBeep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = SecondBeep.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +108,23 @@
 		20780B761F72152400EED5EF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				20780B8D1F7277A400EED5EF /* bg_tile.png */,
+				20780B8E1F7277A400EED5EF /* bg_tile@2x.png */,
+				20780B8F1F7277A400EED5EF /* button_tap_deselected.png */,
+				20780B901F7277A400EED5EF /* button_tap_deselected@2x.png */,
+				20780B911F7277A400EED5EF /* button_tap_selected.png */,
+				20780B921F7277A400EED5EF /* button_tap_selected@2x.png */,
+				20780B931F7277A400EED5EF /* ButtonTap.wav */,
+				20780B941F7277A400EED5EF /* checker_bottom.png */,
+				20780B951F7277A400EED5EF /* checker_bottom@2x.png */,
+				20780B961F7277A400EED5EF /* checker_top.png */,
+				20780B971F7277A400EED5EF /* checker_top@2x.png */,
+				20780B981F7277A400EED5EF /* field_score.png */,
+				20780B991F7277A400EED5EF /* field_score@2x.png */,
+				20780B9A1F7277A400EED5EF /* field_time.png */,
+				20780B9B1F7277A400EED5EF /* field_time@2x.png */,
+				20780B9C1F7277A400EED5EF /* HallOfTheMountainKing.mp3 */,
+				20780B9D1F7277A400EED5EF /* SecondBeep.wav */,
 				20780B771F72152400EED5EF /* main.m */,
 			);
 			name = "Supporting Files";
@@ -110,8 +161,7 @@
 				TargetAttributes = {
 					20780B721F72152400EED5EF = {
 						CreatedOnToolsVersion = 8.3.3;
-						DevelopmentTeam = G4G7LHL35D;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -138,9 +188,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20780B9E1F7277A400EED5EF /* bg_tile.png in Resources */,
 				20780B861F72152400EED5EF /* LaunchScreen.storyboard in Resources */,
+				20780BAC1F7277A400EED5EF /* field_time@2x.png in Resources */,
+				20780BA21F7277A400EED5EF /* button_tap_selected.png in Resources */,
 				20780B831F72152400EED5EF /* Assets.xcassets in Resources */,
+				20780BA31F7277A400EED5EF /* button_tap_selected@2x.png in Resources */,
+				20780BAE1F7277A400EED5EF /* SecondBeep.wav in Resources */,
+				20780BA01F7277A400EED5EF /* button_tap_deselected.png in Resources */,
+				20780BA81F7277A400EED5EF /* checker_top@2x.png in Resources */,
 				20780B811F72152400EED5EF /* Main.storyboard in Resources */,
+				20780BA51F7277A400EED5EF /* checker_bottom.png in Resources */,
+				20780BA71F7277A400EED5EF /* checker_top.png in Resources */,
+				20780BA11F7277A400EED5EF /* button_tap_deselected@2x.png in Resources */,
+				20780BA91F7277A400EED5EF /* field_score.png in Resources */,
+				20780BAB1F7277A400EED5EF /* field_time.png in Resources */,
+				20780BA41F7277A400EED5EF /* ButtonTap.wav in Resources */,
+				20780B9F1F7277A400EED5EF /* bg_tile@2x.png in Resources */,
+				20780BAA1F7277A400EED5EF /* field_score@2x.png in Resources */,
+				20780BA61F7277A400EED5EF /* checker_bottom@2x.png in Resources */,
+				20780BAD1F7277A400EED5EF /* HallOfTheMountainKing.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,11 +340,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = G4G7LHL35D;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Tap Me/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.rtg.Tap-Me";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -285,11 +353,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = G4G7LHL35D;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Tap Me/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.rtg.Tap-Me";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Release;
 		};
