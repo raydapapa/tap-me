@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AVFoundation/AVFoundation.h>
 
 @interface ViewController : UIViewController {
     IBOutlet UILabel *scoreLabel;
@@ -15,6 +16,11 @@
     NSInteger count;
     NSInteger seconds;
     NSTimer *timer;
+    
+    // Add these AVAudioPlayer objects!
+    AVAudioPlayer *buttonBeep;
+    AVAudioPlayer *secondBeep;
+    AVAudioPlayer *backgroundMusic;
 }
 
 - (IBAction)buttonPressed;
