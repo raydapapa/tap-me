@@ -104,14 +104,9 @@
 		20780B751F72152400EED5EF /* Tap Me */ = {
 			isa = PBXGroup;
 			children = (
-				20780B791F72152400EED5EF /* AppDelegate.h */,
-				20780B7A1F72152400EED5EF /* AppDelegate.m */,
 				20780B7C1F72152400EED5EF /* ViewController.h */,
 				20780B7D1F72152400EED5EF /* ViewController.m */,
 				20780B7F1F72152400EED5EF /* Main.storyboard */,
-				20780B821F72152400EED5EF /* Assets.xcassets */,
-				20780B841F72152400EED5EF /* LaunchScreen.storyboard */,
-				20780B871F72152400EED5EF /* Info.plist */,
 				20780B761F72152400EED5EF /* Supporting Files */,
 			);
 			path = "Tap Me";
@@ -120,6 +115,11 @@
 		20780B761F72152400EED5EF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				20780B791F72152400EED5EF /* AppDelegate.h */,
+				20780B7A1F72152400EED5EF /* AppDelegate.m */,
+				20780B821F72152400EED5EF /* Assets.xcassets */,
+				20780B841F72152400EED5EF /* LaunchScreen.storyboard */,
+				20780B871F72152400EED5EF /* Info.plist */,
 				20780B8D1F7277A400EED5EF /* bg_tile.png */,
 				20780B8E1F7277A400EED5EF /* bg_tile@2x.png */,
 				20780B8F1F7277A400EED5EF /* button_tap_deselected.png */,
